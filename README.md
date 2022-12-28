@@ -1,4 +1,4 @@
-# Homebrew - aazam
+# Homebrew-aazam
 
 Tap of `[home]brew` formulae maintained by @real-aazam
 
