@@ -2,8 +2,8 @@
 class Hollywood < Formula
   desc "Hollywood"
   homepage "https://github.com/real-aazam/hollywood"
-  url "https://github.com/real-aazam/hollywood/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "41ecff0b775c413956bc0806e95dafd046b0d442d8358ab4d3decc6435f55e97"
+  url "https://github.com/real-aazam/hollywood/archive/refs/tags/v1.0.4.tar.gz"
+  sha256 "9477bfae5e290ebe05c4189f0e58dc4b05861c7a5554df3cf2fac8371d3e706f"
   license "MIT"
 
   depends_on "jzaleski/homebrew-jzaleski/apg"
