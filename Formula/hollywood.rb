@@ -13,6 +13,7 @@ class Hollywood < Formula
   depends_on "jp2a"
   depends_on "mplayer"
   depends_on "prettyping"
+  depends_on "tmux"
 
   def install
     libexec.install Dir["*"]
